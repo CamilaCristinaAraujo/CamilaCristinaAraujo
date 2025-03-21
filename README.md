@@ -32,9 +32,6 @@
 ## Estatísticas do GitHub
 ![Suas estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=CamilaCristinaAraujo&show_icons=true&theme=radical)
 
-## Contato
-- 📫 Email: milinha.cristina.araujo@gmail.com
-
 ---
 ### Objetivos
 🎯 Busco oportunidades para aplicar e desenvolver habilidades em:
