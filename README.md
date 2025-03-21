@@ -29,19 +29,11 @@
 - 🤖 Machine Learning
 - 🗄️ Banco de Dados
 
-## Projetos em Desenvolvimento
-### 🎬 Sistema de Recomendação de Filmes
-- Desenvolvimento de um sistema de recomendação utilizando Python
-- Implementação de técnicas de Machine Learning para análise de preferências
-- Tecnologias: Python, Pandas, NumPy, Scikit-learn
-- [Link do Projeto](seu-link-aqui)
-
 ## Estatísticas do GitHub
 ![Suas estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=CamilaCristinaAraujo&show_icons=true&theme=radical)
 
 ## Contato
 - 📫 Email: milinha.cristina.araujo@gmail.com
-- 💼 LinkedIn: [linkedin.com/in/camila-araujo-262a9930a](http://linkedin.com/in/camila-araujo-262a9930a)
 
 ---
 ### Objetivos
